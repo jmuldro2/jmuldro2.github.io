@@ -1,0 +1,54 @@
+.content-box h1{
+	background: #ffd6e7;
+	height: 300px;
+	width: 500px;
+	position: center;
+	margin: auto;
+	font-size:55px;
+    text-align: center;
+    border-style: double;
+    border-width: 20px;
+    border-radius: 50px;
+}
+
+.main {background: white;
+width:300px;
+height:300px;
+border-style: solid;}
+
+h2{  
+color: black;
+font-family:sans-serif;
+font-size:35px;
+text-align: center;}
+
+
+h3{
+font-family:sans-serif;
+font-size: 25px;
+text-align: center;	}
+
+li{
+	font-size: 20px;
+	text-align: center;
+}
+
+h4{
+font-size: 20px;
+text-align: center;
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-family:sans-serif;}
+ 
+img{
+	margin: auto;
+}
+iframe{margin: auto;}
+ 
+ body{
+ 	
+ 	background-image: url(https://punkandproud.files.wordpress.com/2012/05/pink-flowers.jpg);
+    background-size: contain;}
